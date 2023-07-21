@@ -30,7 +30,7 @@ export default {
       // load from third service
       // this.data = "/cast/just-demo-record.cast";
       // 设置静态文件代理地址
-      this.data = "https://e61id1-bucket-demo.oss.laf.run/record.cast";
+      this.data = "https://e61id1-bucket-demo.oss.laf.run/demo.cast";
 
     },
     setSrc1() {
